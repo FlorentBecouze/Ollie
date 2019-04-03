@@ -35,4 +35,4 @@ Au niveau du Pad, dessinez votre motif et le Ollie le reproduira après que vous
 Développeurs :
 
     - BECOUZE Florent
-    - un autre élève de 2ème année
+    - TORTI Clément
