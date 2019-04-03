@@ -27,6 +27,9 @@ Au niveau du Pad, dessinez votre motif et le Ollie le reproduira après que vous
 **<br/>Vous n'avez plus qu'à vous amuser !!**
 
 
+**<br/>Une petite vidéo est présente dans le dossier "Ressources" pour vous montrer comment fonctionne notre application.**
+
+
 
 <br/>
 Développeurs :
